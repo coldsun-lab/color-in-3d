@@ -248,12 +248,12 @@ html[lang|="zh"] .share-zh { display: inline; }
 .types { display: grid; gap: 10px; }
 .types li {
   display: grid;
-  grid-template-columns: 76px minmax(0, 1fr);
+  grid-template-columns: 92px minmax(0, 1fr);
   gap: 12px;
   align-items: center;
   padding: 12px;
 }
-.type-icon { width: 76px; height: auto; }
+.type-icon { width: 92px; height: auto; }
 .types p { font-size: 0.95rem; }
 .letter { margin-right: 0.3rem; }
 
